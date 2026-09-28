@@ -79,9 +79,8 @@ Copia la carpeta a `~/.claude/skills/segunda-opinion/`. Aun así, solo funcionar
 Por ejemplo, con contexto adicional:
 
 ```text
-/segunda-opinion Estoy analizando legislación panameña vigente.
-¿Cuál es el plazo para oponerse a una marca publicada en Panamá?
-Cita la norma aplicable y señala cualquier excepción relevante.
+/segunda-opinion Estoy analizando un tema importante.
+¿Cuál es la mejor forma de alcanar el resultado deseado?
 ```
 
 Claude te preguntará quién será el juez. Después te pedirá permiso para controlar la app de ChatGPT y usar el portapapeles.
