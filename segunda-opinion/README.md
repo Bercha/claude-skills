@@ -3,7 +3,7 @@
 Un skill para Claude que envía el mismo texto a **ChatGPT** y a un **Claude independiente**, recoge las dos respuestas y le pide a un **juez** que las compare sin decirle quién escribió cada una.
 
 ```text
-/segunda-opinion ¿Cuál es el la mejor forma de alcanzar el resultado deseado?
+/segunda-opinion ¿Cuál es la mejor forma de alcanzar el resultado deseado?
 ```
 
 No necesita claves API ni servicios intermediarios. Funciona con tus sesiones y planes actuales de Claude y ChatGPT, dentro de los límites de uso de cada servicio.
@@ -80,7 +80,7 @@ Por ejemplo, con contexto adicional:
 
 ```text
 /segunda-opinion Estoy analizando un tema importante.
-¿Cuál es la mejor forma de alcanar el resultado deseado?
+¿Cuál es la mejor forma de alcanzar el resultado deseado?
 ```
 
 Claude te preguntará quién será el juez. Después te pedirá permiso para controlar la app de ChatGPT y usar el portapapeles.
