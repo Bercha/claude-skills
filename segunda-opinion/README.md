@@ -3,7 +3,7 @@
 Un skill para Claude que envía el mismo texto a **ChatGPT** y a un **Claude independiente**, recoge las dos respuestas y le pide a un **juez** que las compare sin decirle quién escribió cada una.
 
 ```text
-/segunda-opinion ¿Cuál es el plazo para oponerse a una marca publicada en Panamá?
+/segunda-opinion ¿Cuál es el la mejor forma de alcanzar el resultado deseado?
 ```
 
 No necesita claves API ni servicios intermediarios. Funciona con tus sesiones y planes actuales de Claude y ChatGPT, dentro de los límites de uso de cada servicio.
